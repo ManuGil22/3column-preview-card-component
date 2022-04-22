@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor solution](https://your-solution-url.com)
 - Live Site URL: [GitHub porject page](https://manugil22.github.io/3column-preview-card-component/)
 
 ## My process
